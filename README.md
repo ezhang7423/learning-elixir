@@ -11,3 +11,5 @@ asdf plugin add elixir
 asdf plugin install elixir latest
 asdf global elixir latest
 ```
+
+Now try `iex` for interactive shell
